@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "checks": 80016,
+  "routeProfiles": 26385,
+  "features": [
+    "required-subject invariance",
+    "official narrow routes",
+    "per-application snapshots",
+    "public-private combination",
+    "fees and reservation",
+    "essay time sharing",
+    "4.0 migration"
+  ]
+}
